@@ -105,7 +105,8 @@ form input[type=submit]{
 .paragrafo, .titulo, .final{
     padding-left: 100px;
     padding-top: 50px;
-    padding-right: 100vh
+    padding-right: 100vh;
+    max-width: 400px;
 }
 
 img{
